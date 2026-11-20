@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 보조금사업 수행 지출결의 통합관리",
+  "description": "여러 보조금 사업의 사업 등록, 예산 편성, 지출결의서 작성·출력, 사업비별 필수 증빙서류 자동 안내 및 첨부 관리, 결재 상태 관리, 정산 보고를 통합 처리하는 관리 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
